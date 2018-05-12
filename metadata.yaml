@@ -1,0 +1,32 @@
+_repo: Myths-and-Legends-of-China_15250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Werner, E. T. C. (Edward Theodore Chalmers)
+    alias: Werner, Edward Theodore Chalmers
+    birthdate: 1864
+    deathdate: 1954
+    gutenberg_agent_id: '5947'
+    url: http://www.gutenberg.org/2009/agents/5947
+description: ''
+gutenberg_bookshelf:
+- Mythology
+- Folklore
+gutenberg_issued: '2005-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- China'
+- !lcsh 'Tales -- China'
+- !lcc 'GR'
+- !lcsh 'Mythology, Chinese'
+title: Myths and Legends of China
+url: http://www.gutenberg.org/ebooks/15250
